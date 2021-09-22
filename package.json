@@ -1,0 +1,11 @@
+{
+  "name": "portfolio-website",
+  "version": "1.0.0",
+  "description": "This is a portfolio website created following a tutorial from Brad Travesry",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jeevan Sadalge",
+  "license": "ISC"
+}
